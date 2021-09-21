@@ -1,0 +1,25 @@
+@media(max-width:992px) {
+    body {
+        background-size: cover;
+        width: 100%;
+    }
+    .stay h1 {
+        margin-left: 17%;
+        margin-top: 23%;
+    }
+    .stay2 h1 {
+        margin-left: 17%;
+        margin-top: 11%;
+    }
+    .stay3 h1 {
+        margin-left: 17%;
+        margin-top: 11%;
+    }
+    .con {
+        margin-left: 13%;
+        padding: 24px;
+        width: 229px;
+        text-align: left;
+        color: black;
+    }
+}

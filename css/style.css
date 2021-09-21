@@ -1,0 +1,149 @@
+.header {
+    color: rebeccapurple;
+}
+
+.bg-light {
+    background-color: rgb(55, 199, 55) !important;
+}
+
+.logo-name span {
+    color: rgb(55, 199, 55);
+    background-color: white;
+}
+
+.logo-name h3 {
+    color: white;
+}
+
+.img1 {
+    height: 40px;
+    margin-left: 3%;
+    margin-top: 1%;
+}
+
+.mb-lg-0 {
+    margin-bottom: 0 !important;
+    margin-left: 23%;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 5.5rem;
+    padding-left: 0.5rem;
+}
+
+.navbar-light .navbar-nav .show>.nav-link,
+.navbar-light .navbar-nav .nav-link.active {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.nav-item :hover {
+    color: rgb(119, 122, 119) !important;
+}
+
+.active-bar {
+    border: 1px solid white;
+    width: 78px;
+}
+
+.active-bar :hover {
+    color: rgb(119, 122, 119);
+}
+
+.input-country {
+    text-align: center;
+    margin-top: 4%;
+}
+
+#scountry {
+    padding: 12px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#search {
+    padding: 12px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+#search:hover {
+    color: white;
+    background-color: rgb(17, 192, 17);
+    border-radius: 0px white;
+}
+
+.subin {
+    color: black;
+    padding: 22px;
+    /* font-size: 54px; */
+    font-size: 25px;
+    width: 230px;
+    display: inline-flex;
+    margin-left: 12%;
+    margin-top: 10%;
+    border-radius: 13px;
+    box-shadow: 2px 4px 14px 5px black;
+}
+
+.subin2 {
+    color: rgb(0, 0, 0);
+    padding: 22px;
+    /* font-size: 54px; */
+    font-size: 25px;
+    width: 230px;
+    display: inline-flex;
+    margin-left: 12%;
+    margin-top: 10%;
+    border-radius: 13px;
+    box-shadow: 2px 4px 14px 5px black;
+}
+
+.con {
+    color: black;
+    text-align: center;
+    background-color: rgb(43, 189, 189);
+    padding: 24px;
+    width: 19%;
+    font-size: 20px;
+    border-radius: 13px;
+    margin-left: 41%;
+    margin-top: 5%;
+    box-shadow: 2px 4px 14px 5px black;
+}
+
+.subin3 {
+    margin-left: 39.5%;
+    background-color: rgb(62, 214, 24);
+    width: 17%;
+    padding: 28px;
+    margin-top: 6%;
+    border-radius: 13px;
+    box-shadow: 2px 4px 14px 5px black;
+}
+
+.stay h1 {
+    font-size: 45px;
+    color: white;
+    text-shadow: 6px 5px 3px #000000;
+    margin-left: 17%;
+    margin-top: 5%;
+}
+
+.stay2 h1 {
+    font-size: 45px;
+    color: white;
+    text-shadow: 6px 5px 3px #000000;
+    margin-left: 26%;
+    margin-top: 5%;
+}
+
+.stay3 h1 {
+    font-size: 45px;
+    color: white;
+    text-shadow: 6px 5px 3px #000000;
+    margin-left: 34%;
+    margin-top: 5%;
+}
